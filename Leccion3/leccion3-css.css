@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document Lection 3 */
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    /* color: green; */
+    color: orange;
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+/* Selector de toda la página web */
+body{
+    background-color: black;
+}
