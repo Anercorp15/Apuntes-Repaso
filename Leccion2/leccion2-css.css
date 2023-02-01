@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document Lection 2 */
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    /* color: green; */
+    color: orange;
+    font-size: 16px;
+}
