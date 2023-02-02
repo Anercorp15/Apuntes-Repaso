@@ -1,6 +1,5 @@
 # Apuntes-Repaso
  HTML5 y CSS3<br>
  De momento solo hay apuntes hasta Leccion 10, estan en proceso:<br>
- Leccion 11<br>
- Leccion 12<br>
- Leccion 13.
+ <br>
+ Las leciones se pueden segir por el siguiente enlace <a href="https://www.youtube.com/watch?v=4nkchdenw-U">Curso CSS y HTML Avanzado</a>
