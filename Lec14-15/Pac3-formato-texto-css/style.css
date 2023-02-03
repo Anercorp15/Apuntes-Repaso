@@ -1,0 +1,146 @@
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+ padding: 0;
+ margin: 0;
+ font-size: 100%;
+ font-weight: normal;
+
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+
+}
+
+td, th, caption {
+    font-weight: normal;
+    text-align: left;
+
+}
+
+img, fieldset {
+    border: 0;
+
+}
+
+ol {
+    padding-left: 1.4em;
+    list-style: decimal;
+
+}
+
+ul {
+    padding-left: 1.4em;
+    list-style:square;
+
+}
+
+q:before, q:after {
+    content:'';
+
+}
+
+/* CSS Practica */
+
+body{
+    color: #003;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 62%;
+    background-color: #09f;
+    background-image: url(Imagenes/fondo_div.png);
+    background-repeat: repeat-x;
+
+}
+
+#principal h1{
+    color: #f30;
+    font-family: "Arial Black", Arial, Helvetica, sans-serif;
+    font-size: 4em;
+
+}
+
+#principal h2{
+    font-weight: bold;
+    font-size: 3.5em;
+    font-family: "Hoefler Text", Garamond, Time, Serif;
+    border-width: 1px;
+    border-color: black;
+    border-bottom: solid;
+    margin-top: 25px;
+
+}
+
+#principal h3{
+    color: #f30;
+    font-size: 1.9em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 25px;
+    margin-bottom: 10px;
+
+}
+
+#principal p{
+    font-size: 1.5em;
+    line-height: 150%;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+
+}
+
+#pincipal p::first-line{
+    font-weight: bold;
+    color: #666;
+
+}
+
+#principal ul{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+    width: 160px;
+    float: right;
+
+}
+
+#principal li{
+    color: rgb(158, 18, 158);
+    font-size: 1.5em;
+    margin-bottom: 7px;
+
+}
+
+#principal .autor{
+    font-size: 1.6em;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+
+}
+
+#principal .autor strong{
+    color: red;
+    text-transform: uppercase;
+    margin-left: 5px;
+
+}
+
+#principal{
+    width: 740px;
+    margin: auto;
+    border: solid;
+    border-color: white;
+    border-width: 4px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: url(Imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    ;
+
+}
+
+#principal h1 strong{
+    color: white;
+    font-size: 150px;
+    margin-right: -0.75em;
+}
