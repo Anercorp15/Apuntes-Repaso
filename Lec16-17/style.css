@@ -1,0 +1,78 @@
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    font-weight: normal;
+
+}
+
+html{
+    background-color: #0cf;
+
+}
+
+body{
+    background-color: white;
+    border: solid;
+    border-width: 3px;
+    border-color: #009;
+    width: 760px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+
+}
+
+h1{
+    font-size: 44px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px; /* Dejar espacios entre letras */
+    color: #039;
+    text-transform: uppercase;
+    background-color: #09f;
+    padding: 5px 15px 2px 15px;
+    margin: 0 -15px 20px -15px;
+
+}
+
+h2{
+    font-size: 24px;
+    font-family: "Arial Narrow", Arial, Helvetica, sans-serif;
+    color: #63c;
+    border-top-width: 2px;
+    border-top: dotted;
+    border-top-color: #009;
+    border-bottom-width: 2px;
+    border-bottom: dotted;
+    border-bottom-color: #009;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    overflow: hidden;
+}
+
+.lateral{
+    width: 30%;
+    float: right;
+    background-color: #9cf;
+    border: dotted;
+    border-color: #009;
+    border-width: 1px;
+    padding: 10px 20px;
+    margin: 10px;
+    border-top: solid;
+    border-top-width: 20px;
+    border-top-color: #009;
+
+}
+
+.lateral h2{
+    border: none;
+    margin-top: 0;
+    padding: 0;
+    
+}
